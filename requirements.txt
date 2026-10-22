@@ -1,1 +1,2 @@
-streamlit>=1.40.0\nsupabase>=2.10.0\n
+streamlit>=1.40.0
+supabase>=2.10.0
